@@ -18,4 +18,8 @@ WiFi Pro هو مشروع يهدف إلى تطوير أداة بسيطة لفتح
 
 3. termux-setup-storage
 
-4. python3 WIFI-BRO.py
+4. pkg install python
+
+5. pip install os
+
+6. python3 WIFI-BRO.py
